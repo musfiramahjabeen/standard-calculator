@@ -5,7 +5,6 @@
 To design a web application for a standard calculator.
 
 ## DESIGN STEPS:
-
 ### Step 1:
 Clone the github repository and create Django admin interface.
 
